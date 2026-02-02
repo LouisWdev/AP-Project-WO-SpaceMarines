@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "squadType": "Tactical Squad",
+    "size": 10,
+    "specialized": false,
+    "iconUrl": "https://example.com/warhammer/tactical-squad-icon.jpg",
+    "foundingDate": "M31"
+  },
+  {
+    "id": 2,
+    "squadType": "Devastator Squad",
+    "size": 10,
+    "specialized": true,
+    "iconUrl": "https://example.com/warhammer/devastator-squad-icon.jpg",
+    "foundingDate": "M31"
+  },
+  {
+    "id": 3,
+    "squadType": "Assault Squad",
+    "size": 10,
+    "specialized": true,
+    "iconUrl": "https://example.com/warhammer/assault-squad-icon.jpg",
+    "foundingDate": "M31"
+  },
+  {
+    "id": 4,
+    "squadType": "Terminator Squad",
+    "size": 5,
+    "specialized": true,
+    "iconUrl": "https://example.com/warhammer/terminator-squad-icon.jpg",
+    "foundingDate": "M31"
+  },
+  {
+    "id": 5,
+    "squadType": "Wolf Guard",
+    "size": 8,
+    "specialized": true,
+    "iconUrl": "https://example.com/warhammer/wolf-guard-icon.jpg",
+    "foundingDate": "M31"
+  }
+]

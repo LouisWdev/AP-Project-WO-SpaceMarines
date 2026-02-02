@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "name": "Roboute Guilliman",
+    "description": "The Primarch of the Ultramarines, awakened from stasis in the 41st Millennium to lead the Imperium against Chaos and xenos threats. A master strategist and the author of the Codex Astartes.",
+    "age": 10000,
+    "active": true,
+    "inductionDate": "M30-01-01",
+    "imageUrl": "https://example.com/warhammer/guilliman.jpg",
+    "chapter": "Ultramarines",
+    "wargear": ["Hand of Dominion", "Emperor's Sword", "Artificer Armour"],
+    "squad": {
+      "id": 1,
+      "squadType": "Tactical Squad",
+      "size": 10,
+      "specialized": false,
+      "iconUrl": "https://example.com/warhammer/tactical-squad-icon.jpg",
+      "foundingDate": "M31"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Logan Grimnar",
+    "description": "The Great Wolf of the Space Wolves, a fierce warrior who wields the Axe Morkai and rides a Thunderwolf into battle. Known for his defiance of the Inquisition and unyielding loyalty to Russ.",
+    "age": 700,
+    "active": true,
+    "inductionDate": "M41-03-15",
+    "imageUrl": "https://example.com/warhammer/grimnar.jpg",
+    "chapter": "Space Wolves",
+    "wargear": ["Axe Morkai", "Stormrider", "Terminator Armour"],
+    "squad": {
+      "id": 5,
+      "squadType": "Wolf Guard",
+      "size": 8,
+      "specialized": true,
+      "iconUrl": "https://example.com/warhammer/wolf-guard-icon.jpg",
+      "foundingDate": "M31"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Dante",
+    "description": "Commander of the Blood Angels, over 1,100 years old, battling the Black Rage while leading his chapter against the Tyranids and Chaos. Wears the Death Mask of Sanguinius.",
+    "age": 1100,
+    "active": true,
+    "inductionDate": "M40-05-22",
+    "imageUrl": "https://example.com/warhammer/dante.jpg",
+    "chapter": "Blood Angels",
+    "wargear": ["Axe Mortalis", "Inferno Pistol", "Artificer Armour"],
+    "squad": {
+      "id": 3,
+      "squadType": "Assault Squad",
+      "size": 10,
+      "specialized": true,
+      "iconUrl": "https://example.com/warhammer/assault-squad-icon.jpg",
+      "foundingDate": "M31"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Azrael",
+    "description": "Supreme Grand Master of the Dark Angels, guardian of the chapter's dark secrets. Wields the Sword of Secrets and leads the hunt for the Fallen.",
+    "age": 500,
+    "active": true,
+    "inductionDate": "M41-07-10",
+    "imageUrl": "https://example.com/warhammer/azrael.jpg",
+    "chapter": "Dark Angels",
+    "wargear": ["Sword of Secrets", "Lion Helm", "Terminator Armour"],
+    "squad": {
+      "id": 4,
+      "squadType": "Terminator Squad",
+      "size": 5,
+      "specialized": true,
+      "iconUrl": "https://example.com/warhammer/terminator-squad-icon.jpg",
+      "foundingDate": "M31"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Tor Garadon",
+    "description": "Captain of the Imperial Fists' 3rd Company, a siege expert who fortified Cadia against Abaddon's Black Crusade. Bears the Fist of Dorn.",
+    "age": 300,
+    "active": true,
+    "inductionDate": "M41-09-01",
+    "imageUrl": "https://example.com/warhammer/garadon.jpg",
+    "chapter": "Imperial Fists",
+    "wargear": ["Fist of Dorn", "Grav-gun", "Power Armour"],
+    "squad": {
+      "id": 2,
+      "squadType": "Devastator Squad",
+      "size": 10,
+      "specialized": true,
+      "iconUrl": "https://example.com/warhammer/devastator-squad-icon.jpg",
+      "foundingDate": "M31"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Cato Sicarius",
+    "description": "Captain of the Ultramarines' 2nd Company, a skilled swordsman who led victories against the Tyranids in the Tyrannic Wars. Arrogant but effective.",
+    "age": 250,
+    "active": true,
+    "inductionDate": "M41-11-18",
+    "imageUrl": "https://example.com/warhammer/sicarius.jpg",
+    "chapter": "Ultramarines",
+    "wargear": ["Talassarian Tempest Blade", "Plasma Pistol", "Power Armour"],
+    "squad": {
+      "id": 1,
+      "squadType": "Tactical Squad",
+      "size": 10,
+      "specialized": false,
+      "iconUrl": "https://example.com/warhammer/tactical-squad-icon.jpg",
+      "foundingDate": "M31"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Ragnar Blackmane",
+    "description": "Young Wolf Lord of the Space Wolves, slayer of Magnus the Red's manifestation. Known for his ferocity and the Blackmane Dreadnought.",
+    "age": 150,
+    "active": true,
+    "inductionDate": "M41-12-05",
+    "imageUrl": "https://example.com/warhammer/ragnar.jpg",
+    "chapter": "Space Wolves",
+    "wargear": ["Frost Blade", "Bolt Pistol", "Power Armour"],
+    "squad": {
+      "id": 5,
+      "squadType": "Wolf Guard",
+      "size": 8,
+      "specialized": true,
+      "iconUrl": "https://example.com/warhammer/wolf-guard-icon.jpg",
+      "foundingDate": "M31"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mephiston",
+    "description": "Chief Librarian of the Blood Angels, who overcame the Black Rage to become a psychic powerhouse. Wields Vitarus and plasma blasts.",
+    "age": 400,
+    "active": true,
+    "inductionDate": "M41-02-14",
+    "imageUrl": "https://example.com/warhammer/mephiston.jpg",
+    "chapter": "Blood Angels",
+    "wargear": ["Vitarus", "Plasma Pistol", "Librarian Armour"],
+    "squad": {
+      "id": 3,
+      "squadType": "Assault Squad",
+      "size": 10,
+      "specialized": true,
+      "iconUrl": "https://example.com/warhammer/assault-squad-icon.jpg",
+      "foundingDate": "M31"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Belial",
+    "description": "Grand Master of the Deathwing for the Dark Angels, elite Terminator commander hunting the Fallen across the galaxy.",
+    "age": 450,
+    "active": true,
+    "inductionDate": "M41-04-30",
+    "imageUrl": "https://example.com/warhammer/belial.jpg",
+    "chapter": "Dark Angels",
+    "wargear": ["Sword of Silence", "Storm Bolter", "Terminator Armour"],
+    "squad": {
+      "id": 4,
+      "squadType": "Terminator Squad",
+      "size": 5,
+      "specialized": true,
+      "iconUrl": "https://example.com/warhammer/terminator-squad-icon.jpg",
+      "foundingDate": "M31"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Lysander",
+    "description": "Captain of the Imperial Fists' 1st Company, escaped from Iron Warriors captivity to reclaim his hammer and lead sieges.",
+    "age": 350,
+    "active": true,
+    "inductionDate": "M41-06-12",
+    "imageUrl": "https://example.com/warhammer/lysander.jpg",
+    "chapter": "Imperial Fists",
+    "wargear": ["Fist of Dorn", "Thunder Hammer", "Terminator Armour"],
+    "squad": {
+      "id": 2,
+      "squadType": "Devastator Squad",
+      "size": 10,
+      "specialized": true,
+      "iconUrl": "https://example.com/warhammer/devastator-squad-icon.jpg",
+      "foundingDate": "M31"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Uriel Ventris",
+    "description": "Captain of the Ultramarines' 4th Company, exiled for deviating from the Codex but redeemed through battles against Necrons and Chaos.",
+    "age": 200,
+    "active": true,
+    "inductionDate": "M41-08-25",
+    "imageUrl": "https://example.com/warhammer/ventris.jpg",
+    "chapter": "Ultramarines",
+    "wargear": ["Bolter", "Power Sword", "Power Armour"],
+    "squad": {
+      "id": 1,
+      "squadType": "Tactical Squad",
+      "size": 10,
+      "specialized": false,
+      "iconUrl": "https://example.com/warhammer/tactical-squad-icon.jpg",
+      "foundingDate": "M31"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Bjorn the Fell-Handed",
+    "description": "Ancient Dreadnought of the Space Wolves, companion to Leman Russ himself. Awakens only for the greatest battles, wielding Trueclaw.",
+    "age": 10000,
+    "active": true,
+    "inductionDate": "M30-10-01",
+    "imageUrl": "https://example.com/warhammer/bjorn.jpg",
+    "chapter": "Space Wolves",
+    "wargear": ["Trueclaw", "Assault Cannon", "Dreadnought Chassis"],
+    "squad": {
+      "id": 5,
+      "squadType": "Wolf Guard",
+      "size": 8,
+      "specialized": true,
+      "iconUrl": "https://example.com/warhammer/wolf-guard-icon.jpg",
+      "foundingDate": "M31"
+    }
+  }
+]
