@@ -4,7 +4,7 @@
     "squadType": "Tactical Squad",
     "size": 10,
     "specialized": false,
-    "iconUrl": "https://example.com/warhammer/tactical-squad-icon.jpg",
+    "iconUrl": "https://static.wikia.nocookie.net/warhammer40k/images/2/2d/Ultramarines_Livery.jpg/revision/latest?cb=20160501032216",
     "foundingDate": "M31"
   },
   {
@@ -12,7 +12,7 @@
     "squadType": "Devastator Squad",
     "size": 10,
     "specialized": true,
-    "iconUrl": "https://example.com/warhammer/devastator-squad-icon.jpg",
+    "iconUrl": "https://static.wikia.nocookie.net/warhammer40k/images/0/08/BattlelineIcon.jpg/revision/latest?cb=20200610185022",
     "foundingDate": "M31"
   },
   {
@@ -20,7 +20,7 @@
     "squadType": "Assault Squad",
     "size": 10,
     "specialized": true,
-    "iconUrl": "https://example.com/warhammer/assault-squad-icon.jpg",
+    "iconUrl": "https://static.wikia.nocookie.net/warhammer40k/images/e/ef/FireSupportIcon.jpg/revision/latest?cb=20200610190755",
     "foundingDate": "M31"
   },
   {
@@ -28,7 +28,7 @@
     "squadType": "Terminator Squad",
     "size": 5,
     "specialized": true,
-    "iconUrl": "https://example.com/warhammer/terminator-squad-icon.jpg",
+    "iconUrl": "https://static.wikia.nocookie.net/warhammer40k/images/5/55/CloseSupportIcon.jpg/revision/latest?cb=20200610185916",
     "foundingDate": "M31"
   },
   {
@@ -36,7 +36,7 @@
     "squadType": "Wolf Guard",
     "size": 8,
     "specialized": true,
-    "iconUrl": "https://example.com/warhammer/wolf-guard-icon.jpg",
+    "iconUrl": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fpffiu2k552vd1.jpeg",
     "foundingDate": "M31"
   }
 ]

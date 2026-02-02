@@ -2,11 +2,11 @@
   {
     "id": 1,
     "name": "Roboute Guilliman",
-    "description": "The Primarch of the Ultramarines, awakened from stasis in the 41st Millennium to lead the Imperium against Chaos and xenos threats. A master strategist and the author of the Codex Astartes.",
+    "description": "The Primarch of the Ultramarines, A master strategist and the author of the Codex Astartes.",
     "age": 10000,
     "active": true,
     "inductionDate": "M30-01-01",
-    "imageUrl": "https://example.com/warhammer/guilliman.jpg",
+    "imageUrl": "https://static.wikia.nocookie.net/warhammer40k/images/4/45/Roboute_Guilliman_Avenging_Son.png/revision/latest?cb=20160919055552",
     "chapter": "Ultramarines",
     "wargear": ["Hand of Dominion", "Emperor's Sword", "Artificer Armour"],
     "squad": {
@@ -14,18 +14,17 @@
       "squadType": "Tactical Squad",
       "size": 10,
       "specialized": false,
-      "iconUrl": "https://example.com/warhammer/tactical-squad-icon.jpg",
       "foundingDate": "M31"
     }
   },
   {
     "id": 2,
     "name": "Logan Grimnar",
-    "description": "The Great Wolf of the Space Wolves, a fierce warrior who wields the Axe Morkai and rides a Thunderwolf into battle. Known for his defiance of the Inquisition and unyielding loyalty to Russ.",
+    "description": "The Great Wolf of the Space Wolves, a fierce warrior who wields the Axe Morkai and rides a Thunderwolf into battle.",
     "age": 700,
     "active": true,
     "inductionDate": "M41-03-15",
-    "imageUrl": "https://example.com/warhammer/grimnar.jpg",
+    "imageUrl": "https://static.wikia.nocookie.net/warhammer40k/images/e/e6/LoganGrimnarEraIndomitus.jpeg/revision/latest?cb=20250508162228",
     "chapter": "Space Wolves",
     "wargear": ["Axe Morkai", "Stormrider", "Terminator Armour"],
     "squad": {
@@ -33,18 +32,17 @@
       "squadType": "Wolf Guard",
       "size": 8,
       "specialized": true,
-      "iconUrl": "https://example.com/warhammer/wolf-guard-icon.jpg",
       "foundingDate": "M31"
     }
   },
   {
     "id": 3,
     "name": "Dante",
-    "description": "Commander of the Blood Angels, over 1,100 years old, battling the Black Rage while leading his chapter against the Tyranids and Chaos. Wears the Death Mask of Sanguinius.",
+    "description": "Commander of the Blood Angels, over 1,100 years old, Wears the Death Mask of Sanguinius.",
     "age": 1100,
     "active": true,
     "inductionDate": "M40-05-22",
-    "imageUrl": "https://example.com/warhammer/dante.jpg",
+    "imageUrl": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fjnviw8pi5px51.jpg",
     "chapter": "Blood Angels",
     "wargear": ["Axe Mortalis", "Inferno Pistol", "Artificer Armour"],
     "squad": {
@@ -52,18 +50,17 @@
       "squadType": "Assault Squad",
       "size": 10,
       "specialized": true,
-      "iconUrl": "https://example.com/warhammer/assault-squad-icon.jpg",
       "foundingDate": "M31"
     }
   },
   {
     "id": 4,
     "name": "Azrael",
-    "description": "Supreme Grand Master of the Dark Angels, guardian of the chapter's dark secrets. Wields the Sword of Secrets and leads the hunt for the Fallen.",
+    "description": "Supreme Grand Master of the Dark Angels, guardian of the chapter's dark secrets.",
     "age": 500,
     "active": true,
     "inductionDate": "M41-07-10",
-    "imageUrl": "https://example.com/warhammer/azrael.jpg",
+    "imageUrl": "https://static.wikitide.net/1d6chanwiki/2/28/E007F970-B396-4BF5-948D-3BA1201BF2EB.jpeg",
     "chapter": "Dark Angels",
     "wargear": ["Sword of Secrets", "Lion Helm", "Terminator Armour"],
     "squad": {
@@ -71,7 +68,6 @@
       "squadType": "Terminator Squad",
       "size": 5,
       "specialized": true,
-      "iconUrl": "https://example.com/warhammer/terminator-squad-icon.jpg",
       "foundingDate": "M31"
     }
   },
@@ -82,7 +78,7 @@
     "age": 300,
     "active": true,
     "inductionDate": "M41-09-01",
-    "imageUrl": "https://example.com/warhammer/garadon.jpg",
+    "imageUrl": "https://static.wikia.nocookie.net/warhammer40k/images/6/62/Tor_Garadon.png/revision/latest?cb=20191027102455",
     "chapter": "Imperial Fists",
     "wargear": ["Fist of Dorn", "Grav-gun", "Power Armour"],
     "squad": {
@@ -90,7 +86,6 @@
       "squadType": "Devastator Squad",
       "size": 10,
       "specialized": true,
-      "iconUrl": "https://example.com/warhammer/devastator-squad-icon.jpg",
       "foundingDate": "M31"
     }
   },
@@ -101,7 +96,7 @@
     "age": 250,
     "active": true,
     "inductionDate": "M41-11-18",
-    "imageUrl": "https://example.com/warhammer/sicarius.jpg",
+    "imageUrl": "https://static.wikia.nocookie.net/warhammer40k/images/6/67/CatoSicariusEraIndomitus.jpg/revision/latest?cb=20191009221354",
     "chapter": "Ultramarines",
     "wargear": ["Talassarian Tempest Blade", "Plasma Pistol", "Power Armour"],
     "squad": {
@@ -109,18 +104,17 @@
       "squadType": "Tactical Squad",
       "size": 10,
       "specialized": false,
-      "iconUrl": "https://example.com/warhammer/tactical-squad-icon.jpg",
       "foundingDate": "M31"
     }
   },
   {
     "id": 7,
     "name": "Ragnar Blackmane",
-    "description": "Young Wolf Lord of the Space Wolves, slayer of Magnus the Red's manifestation. Known for his ferocity and the Blackmane Dreadnought.",
+    "description": "Young Wolf Lord of the Space Wolves, slayer of Magnus the Red's manifestation.",
     "age": 150,
     "active": true,
     "inductionDate": "M41-12-05",
-    "imageUrl": "https://example.com/warhammer/ragnar.jpg",
+    "imageUrl": "https://static.wikia.nocookie.net/warhammer40k/images/1/19/Blood_on_the_mountain_ragnar_by_nachomolina.jpg/revision/latest?cb=20170131032247",
     "chapter": "Space Wolves",
     "wargear": ["Frost Blade", "Bolt Pistol", "Power Armour"],
     "squad": {
@@ -128,18 +122,17 @@
       "squadType": "Wolf Guard",
       "size": 8,
       "specialized": true,
-      "iconUrl": "https://example.com/warhammer/wolf-guard-icon.jpg",
       "foundingDate": "M31"
     }
   },
   {
     "id": 8,
     "name": "Mephiston",
-    "description": "Chief Librarian of the Blood Angels, who overcame the Black Rage to become a psychic powerhouse. Wields Vitarus and plasma blasts.",
+    "description": "Chief Librarian of the Blood Angels, who overcame the Black Rage to become a psychic powerhouse.",
     "age": 400,
     "active": true,
     "inductionDate": "M41-02-14",
-    "imageUrl": "https://example.com/warhammer/mephiston.jpg",
+    "imageUrl": "https://omnis-bibliotheca.com/images/f/fc/MephistonAlt.jpg",
     "chapter": "Blood Angels",
     "wargear": ["Vitarus", "Plasma Pistol", "Librarian Armour"],
     "squad": {
@@ -147,7 +140,6 @@
       "squadType": "Assault Squad",
       "size": 10,
       "specialized": true,
-      "iconUrl": "https://example.com/warhammer/assault-squad-icon.jpg",
       "foundingDate": "M31"
     }
   },
@@ -158,7 +150,7 @@
     "age": 450,
     "active": true,
     "inductionDate": "M41-04-30",
-    "imageUrl": "https://example.com/warhammer/belial.jpg",
+    "imageUrl": "https://wh40k.lexicanum.com/mediawiki/images/thumb/6/64/BelialArt26.jpg/200px-BelialArt26.jpg",
     "chapter": "Dark Angels",
     "wargear": ["Sword of Silence", "Storm Bolter", "Terminator Armour"],
     "squad": {
@@ -166,7 +158,6 @@
       "squadType": "Terminator Squad",
       "size": 5,
       "specialized": true,
-      "iconUrl": "https://example.com/warhammer/terminator-squad-icon.jpg",
       "foundingDate": "M31"
     }
   },
@@ -177,7 +168,7 @@
     "age": 350,
     "active": true,
     "inductionDate": "M41-06-12",
-    "imageUrl": "https://example.com/warhammer/lysander.jpg",
+    "imageUrl": "https://omnis-bibliotheca.com/images/thumb/e/ee/Lysander_B%26W.jpg/600px-Lysander_B%26W.jpg",
     "chapter": "Imperial Fists",
     "wargear": ["Fist of Dorn", "Thunder Hammer", "Terminator Armour"],
     "squad": {
@@ -185,7 +176,6 @@
       "squadType": "Devastator Squad",
       "size": 10,
       "specialized": true,
-      "iconUrl": "https://example.com/warhammer/devastator-squad-icon.jpg",
       "foundingDate": "M31"
     }
   },
@@ -196,7 +186,7 @@
     "age": 200,
     "active": true,
     "inductionDate": "M41-08-25",
-    "imageUrl": "https://example.com/warhammer/ventris.jpg",
+    "imageUrl": "https://static.wikia.nocookie.net/warhammer40k/images/6/6c/UrielVentrisPrimaris.jpg/revision/latest?cb=20201206040529",
     "chapter": "Ultramarines",
     "wargear": ["Bolter", "Power Sword", "Power Armour"],
     "squad": {
@@ -204,7 +194,6 @@
       "squadType": "Tactical Squad",
       "size": 10,
       "specialized": false,
-      "iconUrl": "https://example.com/warhammer/tactical-squad-icon.jpg",
       "foundingDate": "M31"
     }
   },
@@ -215,7 +204,7 @@
     "age": 10000,
     "active": true,
     "inductionDate": "M30-10-01",
-    "imageUrl": "https://example.com/warhammer/bjorn.jpg",
+    "imageUrl": "https://static.wikia.nocookie.net/warhammer40k/images/e/ee/Bear_Vlka_Fenryka.png/revision/latest?cb=20161211045007",
     "chapter": "Space Wolves",
     "wargear": ["Trueclaw", "Assault Cannon", "Dreadnought Chassis"],
     "squad": {
@@ -223,7 +212,6 @@
       "squadType": "Wolf Guard",
       "size": 8,
       "specialized": true,
-      "iconUrl": "https://example.com/warhammer/wolf-guard-icon.jpg",
       "foundingDate": "M31"
     }
   }
